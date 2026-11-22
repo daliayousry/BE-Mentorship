@@ -6,3 +6,5 @@ Backend mentorship use cases, each in its own folder with documentation and diag
 
 - [Session 1 — Manage Time](session-1/README.md)
 - [Session 2 — UI for Request Leave and Manager Approval](session-2/README.md)
+- [Session 3 — E-commerce Database Design](session-3/README.md)
+- [Session 4 — Search & Recommendation Queries](session-4/README.md)
